@@ -10,11 +10,12 @@ To cite the method for this tool please cite: Logan, H., S. DeMeester, T.F. Astr
 
 To cite the PLCA LCA DF v 1.0 please cite: Logan, H. 2024. Plastic Additives (PLAD) Life Cycle Assessment (LCA) Data Finder (DF). Version 1.0. https://github.com/hmlogan/PLADLCADF
 
-## Update
+### Update
 
 The PLADLCADB Personal Database Builder (PLAD_LCA_DF_PDB) is now availible as a jupyter notebook. This notebook is formatted to allow users to interact with the database filteringit into an excel file for their unique study. There is also a series of dashboard integrations facilitating easy visualization of results from analysis of data availability for their unique study. The notebook is formatted so new users can easily interact with the data and advances users can manipulate the figures and analysis. 
 
-# Generative AI Statement
+### Generative AI Statement
+
 In this scientific work, generative artificial intelligence (AI) has been used. All data and personal information have been processed in accordance with the Technical university of Denmarks regulations, and I, as the author of the document, take full responsibility for its content, claims, and references. An overview of the use of generative AI is provided below: 
 In this research I have used Genrative AI to spar and check logic, pythonic ormatting and syntax, and improve iteration of code. While AI has been used in this sense to improve the code, the logic, processes, and flow design of the code are my own. All data processed and amde avaible for data analysis by this code is of my own work and was not edied or changed by the use of AI.
 
